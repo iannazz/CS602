@@ -10,8 +10,7 @@ import streamlit as st
 import pydeck as pdk
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import plotly.express as px
+
 
 
 FILENAME = "California_Fire_Incidents.csv"
