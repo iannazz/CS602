@@ -3,6 +3,4 @@ streamlit
 pydeck
 pandas
 numpy
-matplotlib.pyplot
-plotly.express
 tk
