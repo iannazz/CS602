@@ -5,7 +5,7 @@ Final Project
 California Wildfires Dataset
 
 """
-import csv
+
 import streamlit as st
 import pydeck as pdk
 import pandas as pd
